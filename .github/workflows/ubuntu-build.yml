@@ -7,7 +7,7 @@ permissions:
 
 jobs:
   Ubuntu:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
 
     steps:
       - name: 仓库检出
